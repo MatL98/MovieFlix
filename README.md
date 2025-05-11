@@ -1,2 +1,2 @@
 # MovieFlix
-it's an app to read information about your favorite films.
+Discover detailed info on all your favorite films.
